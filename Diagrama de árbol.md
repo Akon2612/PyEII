@@ -14,7 +14,7 @@ graph TD
     F --> M(Cruz)
     G --> N(Cara)
     G --> O(Cruz)
-
+    
     subgraph Espacio Muestral
         H(CCC)
         I(CCX)
